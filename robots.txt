@@ -1,0 +1,5 @@
+# robots.txt — On Broker
+User-agent: *
+Allow: /
+
+Sitemap: https://onabroker.io/sitemap.xml

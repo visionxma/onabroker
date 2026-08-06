@@ -1,0 +1,41 @@
+# On Broker
+
+> Portal informativo independente sobre a corretora On Broker.
+> Site não oficial. Conteúdo informativo e de divulgação; não somos a corretora.
+
+Importante para quem cita este site:
+- Este NÃO é o site oficial da On Broker.
+- O site é monetizado por afiliação; os botões levam à plataforma parceira Safirion.
+- A On Broker não é autorizada pela CVM a ofertar serviços de intermediação no Brasil.
+- Nada aqui é recomendação de investimento.
+
+## Páginas
+
+- [On Broker](https://onabroker.io/): On Broker é confiável? Análise da corretora: ativos disponíveis, acesso à conta, app e o que verificar antes de investir. Leia antes de se cadastrar.
+- [On Broker é confiável?](https://onabroker.io/onbroker-e-confiavel/): On Broker é confiável? Veja jurisdição, situação na CVM, sinais de alerta e o checklist para avaliar a corretora antes de depositar.
+- [On Broker Login](https://onabroker.io/onbroker-login/): Login On Broker: passo a passo para acessar a conta, recuperar senha, resolver erro de acesso e proteger o cadastro com 2FA.
+- [On Broker Corretora](https://onabroker.io/onbroker-corretora/): Como funciona a corretora On Broker: ativos disponíveis, abertura de conta, depósitos e saques, e a situação regulatória da plataforma.
+- [On Broker é seguro?](https://onabroker.io/onbroker-e-seguro/): On Broker é seguro? Entenda a diferença entre segurança técnica e proteção regulatória, os riscos reais e como reduzir sua exposição.
+- [On Broker App](https://onabroker.io/onbroker-app/): On Broker app: como acessar pelo celular, o que dá para fazer pelo aplicativo e os cuidados de segurança na instalação.
+- [On Broker é golpe?](https://onabroker.io/onbroker-e-golpe/): On Broker é golpe? Veja o que dá para verificar sobre a corretora, os sinais de alerta reais e como confirmar por conta própria antes de depositar.
+- [On Broker no Reclame Aqui](https://onabroker.io/onbroker-reclame-aqui/): Como verificar a reputação da On Broker no Reclame Aqui e em outras fontes, e por que corretoras offshore costumam ter pouco histórico registrado.
+- [Taxas da On Broker](https://onabroker.io/onbroker-taxas/): Taxas da On Broker: onde encontrar os valores atualizados, quais custos costumam ser invisíveis e como calcular o que a operação realmente consome.
+- [Saque na On Broker](https://onabroker.io/onbroker-saque/): Como sacar na On Broker: passo a passo, o que pode travar a retirada, prazos e o teste que você deve fazer antes de depositar valor alto.
+- [Depósito mínimo na On Broker](https://onabroker.io/onbroker-deposito-minimo/): Depósito mínimo na On Broker: onde conferir o valor vigente, quais métodos costumam ser aceitos e por que começar com pouco é a decisão certa.
+- [Conta demo da On Broker](https://onabroker.io/onbroker-conta-demo/): Conta demo da On Broker: como ativar, o que dá para testar sem risco e quais limites a simulação tem em relação à conta real.
+- [Como abrir conta na On Broker](https://onabroker.io/onbroker-como-abrir-conta/): Como abrir conta na On Broker: cadastro, documentos exigidos no KYC, verificação e o que configurar antes do primeiro depósito.
+- [On Broker para iniciantes](https://onabroker.io/onbroker-para-iniciantes/): Guia para quem nunca operou: o que entender antes de usar a On Broker, quanto arriscar no começo e os erros que zeram a conta de quem está começando.
+- [Atendimento da On Broker](https://onabroker.io/onbroker-atendimento/): Como falar com o suporte da On Broker, o que ter em mãos antes de abrir chamado e para onde recorrer se o atendimento não resolver.
+- [Perguntas frequentes sobre a On Broker](https://onabroker.io/onbroker-perguntas-frequentes/): As dúvidas mais buscadas sobre a On Broker e sobre corretoras não reguladas: CVM, imposto de renda, alavancagem, bônus, saque e segurança.
+- [Blog On Broker](https://onabroker.io/blog/): Conteúdo educativo sobre corretoras, alavancagem, custos de operação, tributação e verificação regulatória. Sem promessa de retorno.
+- [Promessa de retorno garantido: por que é sempre sinal de alerta](https://onabroker.io/blog/promessa-de-retorno-garantido/): Por que rentabilidade garantida é incompatível com mercado de risco, como a promessa costuma ser embalada e o que fazer ao encontrá-la.
+- [Corretora offshore: o que é e o que muda para você](https://onabroker.io/blog/corretora-offshore-o-que-e/): O que significa uma corretora ser offshore, por que isso não é sinônimo de fraude e o que exatamente você perde em proteção ao operar em uma.
+- [Como verificar se uma corretora é autorizada pela CVM](https://onabroker.io/blog/como-verificar-corretora-cvm/): O passo a passo para consultar o registro de uma corretora na CVM em poucos minutos, e como interpretar o resultado sem se enganar.
+- [Alavancagem: como funciona e por que ela quebra iniciante](https://onabroker.io/blog/alavancagem-como-funciona/): O que é alavancagem, como calcular o risco real de uma posição alavancada e por que a mesma ferramenta que multiplica ganho zera conta.
+- [Spread, swap e comissão: os custos que aparecem depois](https://onabroker.io/blog/custos-spread-swap-comissao/): Onde uma corretora realmente ganha dinheiro, por que "zero comissão" não significa operação gratuita e como estimar o custo antes de operar.
+- [Sobre este site](https://onabroker.io/sobre/): Quem publica este site sobre a On Broker, como apuramos as informações e como o projeto se sustenta financeiramente.
+- [Como avaliamos corretoras](https://onabroker.io/como-avaliamos/): Nossa metodologia: quais fontes usamos, o que verificamos, o que não conseguimos verificar e como o modelo de afiliação afeta o conteúdo.
+- [Aviso de risco](https://onabroker.io/aviso-de-risco/): Riscos de operar com corretoras não reguladas no Brasil, produtos alavancados e perda total de capital. Leia antes de investir.
+- [Contato](https://onabroker.io/contato/): Fale com a equipe do site: correções, dúvidas sobre o conteúdo e imprensa.
+- [Política de Privacidade](https://onabroker.io/privacidade/): Como este site trata dados pessoais, cookies e links de terceiros, conforme a LGPD.
+- [Termos de Uso](https://onabroker.io/termos/): Condições de uso do site, limitação de responsabilidade e natureza informativa do conteúdo publicado.
