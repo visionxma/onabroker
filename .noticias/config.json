@@ -1,0 +1,20 @@
+{
+  "marca": "On Broker",
+  "siteUrl": "https://onabroker.io",
+  "fontes": [
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/feed/"
+    },
+    {
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/feed/"
+    },
+    {
+      "nome": "Investing.com",
+      "url": "https://br.investing.com/rss/news_25.rss"
+    }
+  ],
+  "maxManchetes": 12,
+  "rotacao": 15
+}

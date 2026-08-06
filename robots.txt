@@ -2,4 +2,10 @@
 User-agent: *
 Allow: /
 
+# Bastidores do robô que atualiza /noticias/ todo dia. O modelo.html é a
+# mesma página com marcadores no lugar do miolo — se for indexado, o Google
+# vê uma versão vazia e quase idêntica de uma rota que já existe.
+# Nada aponta para cá, mas o GitHub Pages serve tudo que está no repositório.
+Disallow: /.noticias/
+
 Sitemap: https://onabroker.io/sitemap.xml

@@ -1,0 +1,41 @@
+# Atualiza a página /noticias/ todos os dias.
+# Gerado por build.js — editar aqui é perdido no próximo deploy.
+name: Atualizar notícias
+
+on:
+  schedule:
+    # 35 min depois das 09:00 UTC = 06:00 em Brasília
+    - cron: '35 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Buscar manchetes e indicadores
+        run: node .noticias/atualizar.js
+
+      - name: Publicar se algo mudou
+        run: |
+          if [ -z "$(git status --porcelain noticias/)" ]; then
+            echo "nada mudou hoje"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add noticias/
+          git commit -m "Atualiza mercado hoje — $(date -u +%d/%m/%Y)"
+          git push
