@@ -103,7 +103,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://onabroker.io/blog/promessa-de-retorno-garantido/</loc>
+    <loc>https://onabroker.io/blog/slippage-e-execucao-de-ordem/</loc>
+    <lastmod>2026-08-06T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onabroker.io/blog/analise-tecnica-e-fundamentalista/</loc>
+    <lastmod>2026-08-06T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onabroker.io/blog/por-que-iniciante-perde-dinheiro/</loc>
     <lastmod>2026-08-06T10:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -128,6 +140,24 @@
   </url>
   <url>
     <loc>https://onabroker.io/blog/custos-spread-swap-comissao/</loc>
+    <lastmod>2026-08-06T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onabroker.io/blog/bonus-de-deposito-por-que-trava-saque/</loc>
+    <lastmod>2026-08-06T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onabroker.io/blog/imposto-de-renda-corretora-estrangeira/</loc>
+    <lastmod>2026-08-06T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onabroker.io/blog/conta-demo-onde-ela-engana/</loc>
     <lastmod>2026-08-06T10:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
