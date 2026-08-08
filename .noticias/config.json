@@ -4,15 +4,18 @@
   "fontes": [
     {
       "nome": "InfoMoney",
-      "url": "https://www.infomoney.com.br/feed/"
+      "url": "https://www.infomoney.com.br/feed/",
+      "selo": "/assets/img/fontes/infomoney.png"
     },
     {
       "nome": "Money Times",
-      "url": "https://www.moneytimes.com.br/feed/"
+      "url": "https://www.moneytimes.com.br/feed/",
+      "selo": "/assets/img/fontes/moneytimes.png"
     },
     {
       "nome": "Investing.com",
-      "url": "https://br.investing.com/rss/news_25.rss"
+      "url": "https://br.investing.com/rss/news_25.rss",
+      "selo": "/assets/img/fontes/investing.png"
     }
   ],
   "maxManchetes": 12,

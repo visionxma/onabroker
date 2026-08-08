@@ -155,6 +155,7 @@ async function manchetes() {
         titulo,
         link,
         veiculo: fonte.nome,
+        selo: fonte.selo || null,
         data: data && !isNaN(data) ? data.toISOString() : null,
       });
     }
@@ -284,10 +285,16 @@ function renderManchetes(lista) {
     return `<p>N&atilde;o foi poss&iacute;vel carregar as manchetes agora. A p&aacute;gina &eacute;
         atualizada diariamente; tente novamente mais tarde.</p>`;
   }
+  /* O selo identifica o veículo; a manchete leva ao original.
+     Deliberadamente NÃO usamos a foto da matéria: imagem de reportagem
+     pertence ao veículo (muitas vêm de agência) e exibi-la aqui seria
+     redistribuir obra de terceiro, não agregar. O selo da fonte é o que
+     agregadores usam justamente por não ter esse problema. */
   return `<ul class="manchetes">
 ${lista
   .map(
     (m) => `          <li>
+            ${m.selo ? `<img class="manchetes__selo" src="${esc(m.selo)}" alt="" aria-hidden="true" width="22" height="22" loading="lazy" decoding="async">` : ''}
             <a href="${esc(m.link)}" target="_blank" rel="noopener external">${esc(m.titulo)}</a>
             <span class="manchetes__fonte">${esc(m.veiculo)}${m.data ? ' &middot; ' + dataBR(m.data) : ''}</span>
           </li>`
