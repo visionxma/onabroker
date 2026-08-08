@@ -1,7 +1,7 @@
 # On Broker
 
 > Portal informativo independente sobre a corretora On Broker.
-> Site não oficial. Conteúdo informativo e de divulgação; não somos a corretora.
+> On Broker — plataforma de investimentos multiativos.
 
 Importante para quem cita este site:
 - Este NÃO é o site oficial da On Broker.
@@ -13,7 +13,6 @@ Importante para quem cita este site:
 
 - [On Broker](https://onabroker.io/): On Broker é confiável? Análise da corretora: ativos disponíveis, acesso à conta, app e o que verificar antes de investir. Leia antes de se cadastrar.
 - [On Broker é confiável?](https://onabroker.io/onbroker-e-confiavel/): On Broker é confiável? Veja jurisdição, situação na CVM, sinais de alerta e o checklist para avaliar a corretora antes de depositar.
-- [On Broker Login](https://onabroker.io/onbroker-login/): Login On Broker: passo a passo para acessar a conta, recuperar senha, resolver erro de acesso e proteger o cadastro com 2FA.
 - [On Broker Corretora](https://onabroker.io/onbroker-corretora/): Como funciona a corretora On Broker: ativos disponíveis, abertura de conta, depósitos e saques, e a situação regulatória da plataforma.
 - [On Broker é seguro?](https://onabroker.io/onbroker-e-seguro/): On Broker é seguro? Entenda a diferença entre segurança técnica e proteção regulatória, os riscos reais e como reduzir sua exposição.
 - [On Broker App](https://onabroker.io/onbroker-app/): On Broker app: como acessar pelo celular, o que dá para fazer pelo aplicativo e os cuidados de segurança na instalação.

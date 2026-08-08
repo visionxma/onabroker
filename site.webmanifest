@@ -1,7 +1,7 @@
 {
   "name": "On Broker",
   "short_name": "On Broker",
-  "description": "Site não oficial. Conteúdo informativo e de divulgação; não somos a corretora.",
+  "description": "On Broker — plataforma de investimentos.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
